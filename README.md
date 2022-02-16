@@ -21,7 +21,7 @@
   - Follow the prompts shown on screen
 
   ## Usage
-  [Watch Usage Video](https://drive.google.com/file/d/1zb20uKC0ifwe5x9tspJQHuzmUu3RPpoI/view?usp=sharing).
+  [Watch Usage Video](https://drive.google.com/file/d/1QuX3rTZIm05NjkIhxwyJ4kL_UuTgNDA2/view).
 
   ![Screenshot](assets/images/screenshot.png)
   
